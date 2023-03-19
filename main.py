@@ -12,7 +12,7 @@ client = discord.Client()
 
 # 봇의 토큰 설정
 
-TOKEN = "ODY0NDU1NzE1MDgzMzg2OTEw.GBYr2p.xphCKknh2C2PR2OHijZX2cbDVTojchbQirrRoY"
+TOKEN = "앙"
 
 # 유튜브 동영상 정보를 가져오는 함수
 
